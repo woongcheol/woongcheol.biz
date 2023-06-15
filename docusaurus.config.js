@@ -4,6 +4,35 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const fs = require('fs');
+const path = require('path');
+
+const getMostRecentJournalLink = () => {
+  const today = new Date()
+  console.log("today :", today)
+
+  today.setDate(today.getDate() + 2)
+  console.log("today :", today)
+
+  let file = ''
+  while ((file = today.toISOString().split('T')[0])) {
+    console.log("file :", file)
+
+    const filePath = path.join(__dirname, 'docs', 'log', file + '.md')
+    console.log("filePath :", filePath)
+
+    if (fs.existsSync(filePath)) {
+        console.log("filePath success :", file)
+
+      return `docs/log/${file}`
+    }
+    today.setDate(today.getDate() - 1)
+
+    console.log("today down:", today)
+
+  }
+}
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Woongcheol Business',
@@ -63,72 +92,81 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      // docs: {
+      //   sidebar: {
+      //     hideable: true,
+      //     autoCollapseCategories: false,
+      //   },
+      // },
       navbar: {
-        title: 'My Site',
+        title: '신웅철',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Woong Cheol Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: getMostRecentJournalLink(),
+            label: 'Today',
             position: 'left',
-            label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/woongcheol',
+            position: 'right',
+            className: 'navbar-github-link',
+            'aria-label': 'GitHub repository',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      },
+      // footer: {
+      //   style: 'dark',
+      //   links: [
+      //     {
+      //       title: 'Docs',
+      //       items: [
+      //         {
+      //           label: 'Tutorial',
+      //           to: '/docs/intro',
+      //         },
+      //       ],
+      //     },
+      //     {
+      //       title: 'Community',
+      //       items: [
+      //         {
+      //           label: 'Stack Overflow',
+      //           href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+      //         },
+      //         {
+      //           label: 'Discord',
+      //           href: 'https://discordapp.com/invite/docusaurus',
+      //         },
+      //         {
+      //           label: 'Twitter',
+      //           href: 'https://twitter.com/docusaurus',
+      //         },
+      //       ],
+      //     },
+      //     {
+      //       title: 'More',
+      //       items: [
+      //         {
+      //           label: 'Blog',
+      //           to: '/blog',
+      //         },
+      //         {
+      //           label: 'GitHub',
+      //           href: 'https://github.com/facebook/docusaurus',
+      //         },
+      //       ],
+      //     },
+      //   ],
+      //   copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
