@@ -108,7 +108,22 @@ const config = {
           {
             to: getMostRecentJournalLink(),
             label: 'Today',
-            position: 'left',
+            position: 'left'
+          },
+          {
+            to: 'docs/startup/intro',
+            label: '창업',
+            position: 'left'
+          },
+          {
+            to: 'docs/develop/intro',
+            label: '개발',
+            position: 'left'
+          },
+          {
+            to: 'docs/product/intro',
+            label: '생산성',
+            position: 'left'
           },
           {
             href: 'https://github.com/woongcheol',
