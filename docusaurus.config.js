@@ -22,7 +22,7 @@ const getMostRecentJournalLink = () => {
     console.log("filePath :", filePath)
 
     if (fs.existsSync(filePath)) {
-        console.log("filePath success :", file)
+      console.log("filePath success :", file)
 
       return `docs/log/${file}`
     }
@@ -112,12 +112,17 @@ const config = {
           },
           {
             to: 'docs/startup/intro',
-            label: '창업',
+            label: '스타트업',
             position: 'left'
           },
           {
             to: 'docs/develop/intro',
-            label: '개발',
+            label: '프로그래밍',
+            position: 'left'
+          },
+          {
+            to: 'docs/property/intro',
+            label: '부동산',
             position: 'left'
           },
           {
