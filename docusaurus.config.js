@@ -121,6 +121,11 @@ const config = {
             position: 'left'
           },
           {
+            to: 'docs/book/intro',
+            label: '독서',
+            position: 'left'
+          },
+          {
             to: 'docs/property/intro',
             label: '부동산',
             position: 'left'

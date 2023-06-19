@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce6563b06127a72",
+        "id": "909fa9b58e242396",
         "type": "tabs",
         "children": [
           {
-            "id": "ee36617b16a1f10d",
+            "id": "51a545efbdd05a94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/book/intro.md",
+                "staged": false
               }
             }
           }
@@ -69,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "672abd11eeb08161",
@@ -86,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee36617b16a1f10d",
+  "active": "88a7076dd477727a",
   "lastOpenFiles": [
+    "book/intro.md",
     "property/intro.md",
+    "startup/intro.md",
+    "startup/개인정보 처리방침 컨설팅.md",
+    "book",
     "property/intro copy.md",
     "product/intro copy.md",
     "property",
@@ -165,9 +163,7 @@
     "log/2023-06-16.md",
     "develop/Docusaurus 프레임워크.md",
     "develop/바닐라 JS 튜토리얼.md",
-    "startup/개인정보 처리방침 컨설팅.md",
     "product/intro.md",
-    "startup/intro.md",
     "develop/intro.md",
     "Untitled.canvas",
     "2023-06-16.md"
