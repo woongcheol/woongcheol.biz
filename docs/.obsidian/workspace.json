@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b30b1e8224823c9e",
+        "id": "186d88c5dfad9d66",
         "type": "tabs",
         "children": [
           {
-            "id": "9787b91506a143ef",
+            "id": "487fbe621d82670c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-06-20.md",
+                "file": "log/2023-06-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-06-20.md",
+                "file": "log/2023-06-22.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-06-20.md",
+                "file": "log/2023-06-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-06-20.md"
+                "file": "log/2023-06-22.md"
               }
             }
           },
@@ -154,20 +154,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9787b91506a143ef",
+  "active": "487fbe621d82670c",
   "lastOpenFiles": [
+    "book/함께 자라기/키워드 정리 3.md",
+    "book/함께 자라기/키워드 정리 2.md",
+    "book/함께 자라기/키워드 정리 4.md",
+    "book/intro.md",
+    "log/2023-06-21.md",
+    "log/2023-06-22.md",
     "log/2023-06-19.md",
     "log/2023-06-20.md",
-    "book/함께 자라기/키워드 정리 2.md",
-    "book/함께 자라기/키워드 정리.md",
-    "book/intro.md",
     "product/2023-06-19.md",
-    "develop/바닐라 JS 튜토리얼/web api.md",
-    "develop/바닐라 JS 튜토리얼/Untitled.md",
-    "develop/바닐라 JS 튜토리얼",
+    "log/2023-06-16.md",
     "log/2023-06-17.md",
-    "product/intro.md",
     "property/intro.md",
+    "develop/바닐라 JS 튜토리얼/이벤트 처리.md",
+    "develop/바닐라 JS 튜토리얼/web api.md",
+    "키워드  정리 3.md",
+    "book/함께 자라기/키워드 정리.md",
+    "develop/바닐라 JS 튜토리얼",
+    "product/intro.md",
     "Untitled 1.canvas",
     "book/함께 자라기",
     "startup/intro.md",
@@ -176,7 +182,6 @@
     "property/intro copy.md",
     "product/intro copy.md",
     "property",
-    "log/2023-06-16.md",
     "develop/Docusaurus 프레임워크.md",
     "develop/intro.md",
     "Untitled.canvas",
