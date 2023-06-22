@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-06-22.md",
+                "file": "develop/노마드 코더, 바닐라 JS 튜토리얼/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-06-22.md",
+                "file": "develop/노마드 코더, 바닐라 JS 튜토리얼/intro.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-06-22.md",
+                "file": "develop/노마드 코더, 바닐라 JS 튜토리얼/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-06-22.md"
+                "file": "develop/노마드 코더, 바닐라 JS 튜토리얼/intro.md"
               }
             }
           },
@@ -156,23 +156,25 @@
   },
   "active": "487fbe621d82670c",
   "lastOpenFiles": [
+    "develop/intro.md",
+    "develop/노마드 코더, 바닐라 JS 튜토리얼/intro.md",
+    "develop/노마드 코더, 바닐라 JS 튜토리얼/web api.md",
+    "develop/노마드 코더, 바닐라 JS 튜토리얼/이벤트 처리.md",
+    "log/2023-06-19.md",
+    "log/2023-06-20.md",
+    "log/2023-06-22.md",
+    "book/함께 자라기/키워드 정리.md",
     "book/함께 자라기/키워드 정리 3.md",
     "book/함께 자라기/키워드 정리 2.md",
     "book/함께 자라기/키워드 정리 4.md",
     "book/intro.md",
     "log/2023-06-21.md",
-    "log/2023-06-22.md",
-    "log/2023-06-19.md",
-    "log/2023-06-20.md",
     "product/2023-06-19.md",
     "log/2023-06-16.md",
     "log/2023-06-17.md",
     "property/intro.md",
-    "develop/바닐라 JS 튜토리얼/이벤트 처리.md",
-    "develop/바닐라 JS 튜토리얼/web api.md",
     "키워드  정리 3.md",
-    "book/함께 자라기/키워드 정리.md",
-    "develop/바닐라 JS 튜토리얼",
+    "develop/노마드 코더, 바닐라 JS 튜토리얼",
     "product/intro.md",
     "Untitled 1.canvas",
     "book/함께 자라기",
@@ -183,7 +185,6 @@
     "product/intro copy.md",
     "property",
     "develop/Docusaurus 프레임워크.md",
-    "develop/intro.md",
     "Untitled.canvas",
     "2023-06-16.md"
   ]
