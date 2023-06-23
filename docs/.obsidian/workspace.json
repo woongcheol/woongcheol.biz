@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/함께 자라기/키워드 정리.md",
+                "file": "book/함께 자라기/키워드 정리 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/함께 자라기/키워드 정리.md",
+                "file": "book/함께 자라기/키워드 정리 5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/함께 자라기/키워드 정리.md",
+                "file": "book/함께 자라기/키워드 정리 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/함께 자라기/키워드 정리.md"
+                "file": "book/함께 자라기/키워드 정리 5.md"
               }
             }
           },
@@ -172,9 +172,10 @@
   "active": "d7bcfb3ba6a96f11",
   "lastOpenFiles": [
     "book/함께 자라기/키워드 정리 2.md",
-    "book/함께 자라기/키워드 정리 3.md",
     "book/함께 자라기/키워드 정리 4.md",
     "book/함께 자라기/키워드 정리 5.md",
+    "book/함께 자라기/키워드 정리 3.md",
+    "book/함께 자라기/키워드 정리.md",
     "log/2023-06-23.md",
     "log/2023-06-22.md",
     "develop/노마드 코더, 바닐라 JS 튜토리얼/intro.md",
@@ -183,7 +184,6 @@
     "develop/노마드 코더, 바닐라 JS 튜토리얼/이벤트 처리.md",
     "log/2023-06-19.md",
     "log/2023-06-20.md",
-    "book/함께 자라기/키워드 정리.md",
     "book/intro.md",
     "log/2023-06-21.md",
     "product/2023-06-19.md",
