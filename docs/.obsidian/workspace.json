@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 1.md",
+                "file": "book/함께 자라기/키워드 정리 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 1.md",
+                "file": "book/함께 자라기/키워드 정리 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 1.md",
+                "file": "book/함께 자라기/키워드 정리 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 1.md"
+                "file": "book/함께 자라기/키워드 정리 3.md"
               }
             }
           },
@@ -195,8 +195,10 @@
   },
   "active": "f0e01fb057cb3189",
   "lastOpenFiles": [
-    "book/함께 자라기/키워드 정리 1.md",
+    "book/함께 자라기/키워드 정리 4.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 1.md",
+    "Untitled.md",
+    "book/함께 자라기/키워드 정리 1.md",
     "log/2023-06-24.md",
     "log/2023-06-23.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹",
@@ -205,7 +207,6 @@
     "develop/노마드 코더, 바닐라 JS 튜토리얼/이벤트 처리.md",
     "book/함께 자라기/키워드 정리 5.md",
     "book/함께 자라기/키워드 정리 2.md",
-    "book/함께 자라기/키워드 정리 4.md",
     "book/함께 자라기/키워드 정리 3.md",
     "log/2023-06-22.md",
     "develop/intro.md",
