@@ -121,13 +121,18 @@ const config = {
             position: 'left'
           },
           {
+            to: 'docs/design/intro',
+            label: '디자인',
+            position: 'left'
+          },
+          {
             to: 'docs/book/intro',
             label: '독서',
             position: 'left'
           },
           {
-            to: 'docs/property/intro',
-            label: '부동산',
+            to: 'docs/tool/intro',
+            label: '툴',
             position: 'left'
           },
           {
