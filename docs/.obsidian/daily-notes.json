@@ -1,0 +1,5 @@
+{
+  "folder": "log",
+  "autorun": true,
+  "template": "template/log template"
+}
