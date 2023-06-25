@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/디자인 색상 관리와 변수명 설정.md",
+                "file": "log/2023-06-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/디자인 색상 관리와 변수명 설정.md",
+                "file": "log/2023-06-26.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/디자인 색상 관리와 변수명 설정.md",
+                "file": "log/2023-06-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/디자인 색상 관리와 변수명 설정.md"
+                "file": "log/2023-06-26.md"
               }
             }
           },
@@ -172,16 +172,17 @@
   },
   "active": "96b5a6b418692f1b",
   "lastOpenFiles": [
+    "log/2023-06-25.md",
+    "log/2023-06-26.md",
+    "template/log template.md",
+    "design/디자인 색상 관리와 변수명 설정.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
     "tool/이미지 호스팅 서비스.md",
-    "log/2023-06-25.md",
     "tool/색상 고유 명사화 서비스.md",
-    "design/디자인 색상 관리와 변수명 설정.md",
     "tool/intro.md",
     "tool/intro copy.md",
     "design/intro copy.md",
     "template/book template.md",
-    "template/log template.md",
     "Untitled.md",
     "product/2023-06-19.md",
     "tool",
