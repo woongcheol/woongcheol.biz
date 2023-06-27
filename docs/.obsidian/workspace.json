@@ -44,21 +44,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "59ac5ee9a752a39b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,13 +182,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59ac5ee9a752a39b",
+  "active": "a4057e8ed4edcb32",
   "lastOpenFiles": [
+    "log/2023-06-27.md",
     "startup/인적자원관리/2023.md",
     "startup/인적자원관리",
     "startup/개인정보 처리방침 컨설팅.md",
     "Untitled",
-    "log/2023-06-27.md",
     "template/log template.md",
     "tool/intro.md",
     "product/2023-06-19.md",
