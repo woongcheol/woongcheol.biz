@@ -8,13 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0e01fb057cb3189",
+            "id": "96b5a6b418692f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "product/2023-06-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76740b5ac503d28f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-06-25.md",
+                "file": "log/2023-06-27.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,19 +34,19 @@
             }
           },
           {
-            "id": "96b5a6b418692f1b",
+            "id": "a4057e8ed4edcb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-06-26.md",
+                "file": "log/2023-06-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-06-26.md",
+                "file": "log/2023-06-27.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-06-26.md",
+                "file": "log/2023-06-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-06-26.md"
+                "file": "log/2023-06-27.md"
               }
             }
           },
@@ -170,24 +182,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96b5a6b418692f1b",
+  "active": "a4057e8ed4edcb32",
   "lastOpenFiles": [
+    "template/log template.md",
+    "tool/intro.md",
+    "log/2023-06-27.md",
+    "product/2023-06-19.md",
+    "book/함께 자라기/키워드 정리 5.md",
+    "book/함께 자라기/키워드 정리 4.md",
+    "book/함께 자라기/키워드 정리 3.md",
+    "book/함께 자라기/키워드 정리 2.md",
+    "book/함께 자라기/키워드 정리 1.md",
+    "product/intro.md",
+    "log/2023-06-26.md",
     "log/2023-06-25.md",
     "log/2023-06-24.md",
-    "log/2023-06-26.md",
     "design/디자인 색상 관리와 변수명 설정.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
-    "template/log template.md",
     "tool/이미지 호스팅 서비스.md",
     "tool/색상 고유 명사화 서비스.md",
-    "tool/intro.md",
     "tool/intro copy.md",
     "design/intro copy.md",
     "template/book template.md",
     "Untitled.md",
-    "product/2023-06-19.md",
     "tool",
-    "product/intro.md",
     "Pasted image 20230625221019.png.md",
     "src/001.png",
     "Pasted image 20230625221019.png",
@@ -197,12 +215,7 @@
     "log/2023-06-19.md",
     "log/2023-06-16.md",
     "log/2023-06-20.md",
-    "log/2023-06-21.md",
-    "log/2023-06-22.md",
-    "log/2023-06-23.md",
     "Untitled.canvas",
-    "startup/개인정보 처리방침 컨설팅.md",
-    "book/함께 자라기/키워드 정리 2.md",
     "design/변수명",
     "design",
     "template",
