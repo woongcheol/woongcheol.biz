@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-06-27.md",
+                "file": "startup/개인정보 처리방침 컨설팅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59ac5ee9a752a39b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "startup/개인정보 처리방침 컨설팅.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-06-27.md",
+                "file": "startup/개인정보 처리방침 컨설팅.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-06-27.md",
+                "file": "startup/개인정보 처리방침 컨설팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-06-27.md"
+                "file": "startup/개인정보 처리방침 컨설팅.md"
               }
             }
           },
@@ -182,11 +194,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4057e8ed4edcb32",
+  "active": "59ac5ee9a752a39b",
   "lastOpenFiles": [
+    "startup/인적자원관리/2023.md",
+    "startup/인적자원관리",
+    "startup/개인정보 처리방침 컨설팅.md",
+    "Untitled",
+    "log/2023-06-27.md",
     "template/log template.md",
     "tool/intro.md",
-    "log/2023-06-27.md",
     "product/2023-06-19.md",
     "book/함께 자라기/키워드 정리 5.md",
     "book/함께 자라기/키워드 정리 4.md",
@@ -204,7 +220,6 @@
     "tool/intro copy.md",
     "design/intro copy.md",
     "template/book template.md",
-    "Untitled.md",
     "tool",
     "Pasted image 20230625221019.png.md",
     "src/001.png",
@@ -213,8 +228,6 @@
     "src/디자인.md",
     "src",
     "log/2023-06-19.md",
-    "log/2023-06-16.md",
-    "log/2023-06-20.md",
     "Untitled.canvas",
     "design/변수명",
     "design",
@@ -222,8 +235,6 @@
     "book/처음부터 다시 배우는 서비스 디자인 씽킹",
     "develop/노마드 코더, 바닐라 JS 튜토리얼",
     "Untitled 1.canvas",
-    "book/함께 자라기",
-    "book",
-    "property"
+    "book/함께 자라기"
   ]
 }
