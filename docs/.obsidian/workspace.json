@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md",
+                "file": "log/2023-06-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md",
+                "file": "log/2023-06-28.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md",
+                "file": "log/2023-06-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "startup/개인정보 처리방침 컨설팅.md"
+                "file": "log/2023-06-28.md"
               }
             }
           },
@@ -184,10 +184,11 @@
   },
   "active": "a4057e8ed4edcb32",
   "lastOpenFiles": [
-    "log/2023-06-27.md",
     "startup/인적자원관리/2023.md",
-    "startup/인적자원관리",
+    "log/2023-06-28.md",
     "startup/개인정보 처리방침 컨설팅.md",
+    "log/2023-06-27.md",
+    "startup/인적자원관리",
     "Untitled",
     "template/log template.md",
     "tool/intro.md",
