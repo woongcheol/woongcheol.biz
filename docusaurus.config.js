@@ -121,6 +121,11 @@ const config = {
             position: 'left'
           },
           {
+            to: 'docs/infra/intro',
+            label: '인프라',
+            position: 'left'
+          },
+          {
             to: 'docs/design/intro',
             label: '디자인',
             position: 'left'

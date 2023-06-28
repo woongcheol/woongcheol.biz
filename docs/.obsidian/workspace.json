@@ -20,33 +20,31 @@
             }
           },
           {
-            "id": "76740b5ac503d28f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log/2023-06-27.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "a4057e8ed4edcb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-06-28.md",
+                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "091a1627df7e5ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-06-28.md",
+                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-06-28.md",
+                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-06-28.md"
+                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md"
               }
             }
           },
@@ -184,23 +182,28 @@
   },
   "active": "a4057e8ed4edcb32",
   "lastOpenFiles": [
-    "startup/인적자원관리/2023.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 2.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
     "log/2023-06-28.md",
-    "startup/개인정보 처리방침 컨설팅.md",
-    "log/2023-06-27.md",
-    "startup/인적자원관리",
-    "Untitled",
-    "template/log template.md",
-    "tool/intro.md",
+    "book/함께 자라기/키워드 정리 3.md",
+    "infra/AWS S3/AWS S3 생성 및 적용.md",
+    "infra/intro.md",
+    "infra/AWS S3",
     "product/2023-06-19.md",
+    "log/2023-06-27.md",
+    "log/2023-06-25.md",
+    "log/2023-06-26.md",
+    "infra",
+    "template/log template.md",
+    "startup/인적자원관리/2023.md",
+    "startup/개인정보 처리방침 컨설팅.md",
+    "startup/인적자원관리",
+    "tool/intro.md",
     "book/함께 자라기/키워드 정리 5.md",
     "book/함께 자라기/키워드 정리 4.md",
-    "book/함께 자라기/키워드 정리 3.md",
     "book/함께 자라기/키워드 정리 2.md",
     "book/함께 자라기/키워드 정리 1.md",
     "product/intro.md",
-    "log/2023-06-26.md",
-    "log/2023-06-25.md",
     "log/2023-06-24.md",
     "design/디자인 색상 관리와 변수명 설정.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
@@ -210,20 +213,15 @@
     "design/intro copy.md",
     "template/book template.md",
     "tool",
-    "Pasted image 20230625221019.png.md",
     "src/001.png",
     "Pasted image 20230625221019.png",
-    "design/intro.md",
-    "src/디자인.md",
     "src",
-    "log/2023-06-19.md",
     "Untitled.canvas",
     "design/변수명",
     "design",
     "template",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹",
     "develop/노마드 코더, 바닐라 JS 튜토리얼",
-    "Untitled 1.canvas",
-    "book/함께 자라기"
+    "Untitled 1.canvas"
   ]
 }
