@@ -8,43 +8,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96b5a6b418692f1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "product/2023-06-19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a4057e8ed4edcb32",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
+                "file": "log/2023-06-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "797e9203d2620412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/디자인 색상 관리와 변수명 설정.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "091a1627df7e5ac9",
+            "id": "2053b7db374b1467",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
+                "file": "infra/AWS S3/AWS S3 생성 및 적용.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a783ad8f4370c3e9",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "sidebars.js",
+                "staged": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "디자인",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,22 +190,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4057e8ed4edcb32",
+  "active": "88a7076dd477727a",
   "lastOpenFiles": [
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 2.md",
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
     "log/2023-06-28.md",
-    "book/함께 자라기/키워드 정리 3.md",
     "infra/AWS S3/AWS S3 생성 및 적용.md",
-    "infra/intro.md",
-    "infra/AWS S3",
-    "product/2023-06-19.md",
+    "design/디자인 색상 관리와 변수명 설정.md",
+    "tool/이미지 호스팅 서비스.md",
+    "천장 높이가 창의력에 미치는 영향.md",
+    "space/intro.md",
+    "intro.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
+    "startup/테크/디지털 여권.md",
+    "startup/테크",
+    "startup/인적자원관리/경기 침체기, 인재 관리 전략.md",
+    "startup/인적자원관리/2023.md",
     "log/2023-06-27.md",
+    "infra/intro.md",
+    "space",
+    "product/2023-06-19.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 2.md",
+    "book/함께 자라기/키워드 정리 3.md",
+    "infra/AWS S3",
     "log/2023-06-25.md",
     "log/2023-06-26.md",
     "infra",
     "template/log template.md",
-    "startup/인적자원관리/2023.md",
     "startup/개인정보 처리방침 컨설팅.md",
     "startup/인적자원관리",
     "tool/intro.md",
@@ -204,14 +223,7 @@
     "book/함께 자라기/키워드 정리 2.md",
     "book/함께 자라기/키워드 정리 1.md",
     "product/intro.md",
-    "log/2023-06-24.md",
-    "design/디자인 색상 관리와 변수명 설정.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
-    "tool/이미지 호스팅 서비스.md",
-    "tool/색상 고유 명사화 서비스.md",
-    "tool/intro copy.md",
-    "design/intro copy.md",
-    "template/book template.md",
     "tool",
     "src/001.png",
     "Pasted image 20230625221019.png",
@@ -220,8 +232,6 @@
     "design/변수명",
     "design",
     "template",
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹",
-    "develop/노마드 코더, 바닐라 JS 튜토리얼",
     "Untitled 1.canvas"
   ]
 }

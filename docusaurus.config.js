@@ -131,6 +131,11 @@ const config = {
             position: 'left'
           },
           {
+            to: 'docs/space/intro',
+            label: '공간',
+            position: 'left'
+          },
+          {
             to: 'docs/book/intro',
             label: '독서',
             position: 'left'
