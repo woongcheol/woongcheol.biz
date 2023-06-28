@@ -49,10 +49,11 @@
             "id": "a783ad8f4370c3e9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "sidebars.js",
-                "staged": false
+                "file": "log/2023-06-29.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -124,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "log/2023-06-29.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "log/2023-06-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "log/2023-06-29.md"
+              }
             }
           },
           {
@@ -190,9 +195,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88a7076dd477727a",
+  "active": "a783ad8f4370c3e9",
   "lastOpenFiles": [
     "log/2023-06-28.md",
+    "log/2023-06-29.md",
     "infra/AWS S3/AWS S3 생성 및 적용.md",
     "design/디자인 색상 관리와 변수명 설정.md",
     "tool/이미지 호스팅 서비스.md",
@@ -222,7 +228,6 @@
     "book/함께 자라기/키워드 정리 4.md",
     "book/함께 자라기/키워드 정리 2.md",
     "book/함께 자라기/키워드 정리 1.md",
-    "product/intro.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
     "tool",
     "src/001.png",
