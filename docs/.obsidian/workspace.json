@@ -20,33 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3e803c52eb68b9cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "infra/AWS S3/IAM 사용자 추가 및 설정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8b258c4b0e5ef8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log/2023-06-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "672abd11eeb08161",
@@ -169,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,14 +158,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8b258c4b0e5ef8c",
+  "active": "d6f354a4aa9d8ffc",
   "lastOpenFiles": [
+    "infra/AWS S3/IAM 사용자 추가 및 설정.md",
+    "log/2023-06-30.md",
     "design/디자인 색상 관리와 변수명 설정.md",
     "startup/인적자원관리/경기 침체기, 인재 관리 전략.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
-    "log/2023-06-30.md",
     "infra/AWS S3/Cognito 접근 권한 부여.md",
-    "infra/AWS S3/IAM 사용자 추가 및 설정.md",
     "infra/AWS S3/IAM 역할 설정.md",
     "infra/AWS S3/AWS S3 생성 및 적용.md",
     "log/2023-06-29.md",
