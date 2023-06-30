@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "186d88c5dfad9d66",
+        "id": "0b261bbed0acc27c",
         "type": "tabs",
         "children": [
           {
-            "id": "dddbc9925dc1dbd4",
+            "id": "d6f354a4aa9d8ffc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-06-29.md",
+                "file": "log/2023-06-30.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,19 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infra/AWS S3/AWS S3 생성 및 적용.md",
+                "file": "infra/AWS S3/IAM 사용자 추가 및 설정.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6f354a4aa9d8ffc",
+            "id": "a8b258c4b0e5ef8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-06-29.md",
+                "file": "log/2023-06-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-06-29.md",
+                "file": "log/2023-06-30.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-06-29.md",
+                "file": "log/2023-06-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-06-29.md"
+                "file": "log/2023-06-30.md"
               }
             }
           },
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +183,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d6f354a4aa9d8ffc",
+  "active": "a8b258c4b0e5ef8c",
   "lastOpenFiles": [
-    "log/2023-06-28.md",
+    "design/디자인 색상 관리와 변수명 설정.md",
+    "startup/인적자원관리/경기 침체기, 인재 관리 전략.md",
+    "src/디자인 색상 관리와 변수명 설정_image1.png",
+    "log/2023-06-30.md",
+    "infra/AWS S3/Cognito 접근 권한 부여.md",
+    "infra/AWS S3/IAM 사용자 추가 및 설정.md",
+    "infra/AWS S3/IAM 역할 설정.md",
+    "infra/AWS S3/AWS S3 생성 및 적용.md",
     "log/2023-06-29.md",
+    "log/2023-06-28.md",
     "startup/테크/CMS.md",
     "키워드 정리 4.md",
-    "infra/AWS S3/AWS S3 생성 및 적용.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 4.md",
     "book/함께 자라기/키워드 정리 4.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
@@ -204,18 +212,11 @@
     "log/2023-06-22.md",
     "log/2023-06-23.md",
     "log/2023-06-24.md",
-    "log/2023-06-26.md",
-    "log/2023-06-27.md",
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 2.md",
-    "product/2023-06-19.md",
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 1.md",
-    "design/디자인 색상 관리와 변수명 설정.md",
     "startup/테크",
     "space",
     "infra/AWS S3",
     "infra",
     "startup/인적자원관리",
-    "src/디자인 색상 관리와 변수명 설정_image1.png",
     "tool",
     "src/001.png",
     "Pasted image 20230625221019.png",

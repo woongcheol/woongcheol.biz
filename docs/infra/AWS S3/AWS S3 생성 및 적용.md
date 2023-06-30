@@ -4,7 +4,7 @@ log: 00026
 ---
 
 ### 특징
-1. Amazone S3는 Simple Storage Service의 약자이다.
+1. Amazon S3는 Simple Storage Service의 약자이다.
 2. S3는 웹 상에서 데이터를 저장하고 검색하는데 사용할 수 있다.
 3. REST 인터페이스를 통해 저장, 삭제, 조회가 가능하다.
 4. FTP 서버처럼 단순한 파일을 저장하거나, AWS 서비스의 사용 로그 저장, 정적 웹 호스팅, EBS 스냅샷의 저장 영역 기능 등을 갖고 있다.
@@ -19,9 +19,12 @@ log: 00026
 
 ### 생성
 1. 버킷 생성하기
-<img src="https://i.ibb.co/j3sJvTZ/2023-06-28-8-53-31.png" width="100%" height="100%"/>
+	- 모든 퍼블릭 액세스 차단 설정 해제
 
-2. 작성 예정
+
+2. 퍼블릭 전환
+	- 정책 편집
+	- CORS 편집
 
 
 ### 용어집
@@ -64,5 +67,7 @@ log: 00026
 	- 리전 간 객체 공유는 불가능
 	- Bucket 위치를 어디에 지정하냐에 따라 지연 시간, 비용 등이 결정
 
+
 ### 레퍼런스
-https://inpa.tistory.com/entry/AWS-%F0%9F%93%9A-S3-%EB%B2%84%ED%82%B7-%EC%83%9D%EC%84%B1-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%8B%A4%EC%A0%84-%EA%B5%AC%EC%B6%95
+1. [S3 개념 & 버킷 · 권한 설정 방법](https://inpa.tistory.com/entry/AWS-%F0%9F%93%9A-S3-%EB%B2%84%ED%82%B7-%EC%83%9D%EC%84%B1-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%8B%A4%EC%A0%84-%EA%B5%AC%EC%B6%95)
+2. [AWS S3를 활용해 이미지 서버 구축하기 - AWS 설정 편](https://merrily-code.tistory.com/142?category=938924)
