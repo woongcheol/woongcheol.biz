@@ -19,7 +19,7 @@ log: 00026
 
 ### 생성
 1. 버킷 생성하기
-<img src="https://i.ibb.co/j3sJvTZ/2023-06-28-8-53-31.png" width="70%" height="70%">
+<img src="https://i.ibb.co/j3sJvTZ/2023-06-28-8-53-31.png" width="100%" height="100%"/>
 
 2. 작성 예정
 
