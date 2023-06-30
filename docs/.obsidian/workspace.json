@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6f354a4aa9d8ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log/2023-06-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,19 +182,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dddbc9925dc1dbd4",
+  "active": "d6f354a4aa9d8ffc",
   "lastOpenFiles": [
+    "log/2023-06-28.md",
+    "log/2023-06-29.md",
+    "startup/테크/CMS.md",
+    "키워드 정리 4.md",
     "infra/AWS S3/AWS S3 생성 및 적용.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 4.md",
     "book/함께 자라기/키워드 정리 4.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
-    "log/2023-06-29.md",
     "키워드 정리 4 1.md",
     "template/log template.md",
-    "startup/테크/CMS.md",
     "book/함께 자라기/키워드 정리 1.md",
     "book/함께 자라기/키워드 정리 4 1.md",
-    "log/2023-06-28.md",
     "log/2023-06-25.md",
     "log/2023-06-19.md",
     "log/2023-06-16.md",
@@ -196,7 +210,6 @@
     "product/2023-06-19.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 1.md",
     "design/디자인 색상 관리와 변수명 설정.md",
-    "book/함께 자라기/키워드 정리 5.md",
     "startup/테크",
     "space",
     "infra/AWS S3",
