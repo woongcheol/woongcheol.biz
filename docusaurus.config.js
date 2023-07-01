@@ -126,6 +126,11 @@ const config = {
             position: 'left'
           },
           {
+            to: 'docs/blockchain/intro',
+            label: '블록체인',
+            position: 'left'
+          },
+          {
             to: 'docs/design/intro',
             label: '디자인',
             position: 'left'
