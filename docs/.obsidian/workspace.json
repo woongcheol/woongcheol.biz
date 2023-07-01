@@ -20,6 +20,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "406c09d59b210df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log/2023-07-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -160,6 +172,7 @@
   },
   "active": "d6f354a4aa9d8ffc",
   "lastOpenFiles": [
+    "log/2023-07-01.md",
     "infra/AWS S3/IAM 사용자 추가 및 설정.md",
     "log/2023-06-30.md",
     "design/디자인 색상 관리와 변수명 설정.md",
@@ -186,7 +199,6 @@
     "log/2023-06-21.md",
     "log/2023-06-22.md",
     "log/2023-06-23.md",
-    "log/2023-06-24.md",
     "startup/테크",
     "space",
     "infra/AWS S3",
