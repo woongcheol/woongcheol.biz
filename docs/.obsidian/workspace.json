@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-03.md",
+                "file": "log/2023-07-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-07-03.md",
+                "file": "log/2023-07-04.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-07-03.md",
+                "file": "log/2023-07-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-07-03.md"
+                "file": "log/2023-07-04.md"
               }
             }
           },
@@ -157,12 +157,14 @@
   },
   "active": "32753e74843c3852",
   "lastOpenFiles": [
+    "log/2023-07-03.md",
+    "log/2023-07-04.md",
+    "log/2023-07-02.md",
+    "log/2023-06-30.md",
     "develop/Next.js document/Dynamic Routes.md",
     "develop/Next.js document/Pre-rendering and Data Fetching.md",
     "book/함께 자라기/키워드 정리 4.md",
     "develop/Docusaurus 프레임워크.md",
-    "log/2023-07-03.md",
-    "log/2023-07-02.md",
     "design/예정사항/예정사항.md",
     "design/디자인 시스템 구축/디자인 컬러 관리와 변수명 설정.md",
     "design/디자인 시스템 구축/디자인 컬러 스텝.md",
@@ -175,7 +177,6 @@
     "book/함께 자라기/키워드 정리 5.md",
     "log/2023-06-23.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 4.md",
-    "log/2023-06-30.md",
     "천장 높이가 창의력에 미치는 영향.md",
     "startup/인적자원관리/경기 침체기, 인재 관리 전략.md",
     "product/2023-06-19.md",
@@ -187,7 +188,6 @@
     "infra/AWS S3/IAM 사용자 추가 및 설정.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
     "infra/AWS S3/IAM 역할 설정.md",
-    "infra/AWS S3/AWS S3 생성 및 적용.md",
     "startup/테크",
     "space",
     "infra/AWS S3",
