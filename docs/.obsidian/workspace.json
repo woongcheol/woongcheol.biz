@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-02.md",
+                "file": "log/2023-07-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-07-02.md",
+                "file": "log/2023-07-03.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-07-02.md",
+                "file": "log/2023-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-07-02.md"
+                "file": "log/2023-07-03.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "4cd0daa621de8841",
   "lastOpenFiles": [
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 5.md",
     "log/2023-07-02.md",
+    "log/2023-07-03.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 5.md",
     "book/함께 자라기/키워드 정리 5.md",
     "log/2023-06-23.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 4.md",
@@ -214,7 +215,6 @@
     "book/함께 자라기/키워드 정리 4.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
     "키워드 정리 4 1.md",
-    "template/log template.md",
     "startup/테크",
     "space",
     "infra/AWS S3",
