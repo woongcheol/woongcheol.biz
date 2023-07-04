@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e7c6e11fd36aa11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/영감/vijay verma 블로그.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-07-04.md",
+                "file": "design/영감/vijay verma 블로그.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-07-04.md",
+                "file": "design/영감/vijay verma 블로그.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-07-04.md"
+                "file": "design/영감/vijay verma 블로그.md"
               }
             }
           },
@@ -155,10 +168,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32753e74843c3852",
+  "active": "7e7c6e11fd36aa11",
   "lastOpenFiles": [
-    "log/2023-07-03.md",
     "log/2023-07-04.md",
+    "log/2023-07-03.md",
+    "design/영감/vijay verma 블로그.md",
+    "design/영감/Untitled",
+    "design/영감",
     "log/2023-07-02.md",
     "log/2023-06-30.md",
     "develop/Next.js document/Dynamic Routes.md",
@@ -187,13 +203,10 @@
     "log/2023-07-01.md",
     "infra/AWS S3/IAM 사용자 추가 및 설정.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
-    "infra/AWS S3/IAM 역할 설정.md",
     "startup/테크",
     "space",
     "infra/AWS S3",
     "infra",
-    "startup/인적자원관리",
-    "tool",
     "src/001.png",
     "Pasted image 20230625221019.png",
     "Untitled.canvas",
