@@ -10,10 +10,24 @@
           {
             "id": "32753e74843c3852",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-04.md",
+                "file": "log/2023-07-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2eb4dc8a9767a5ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design/로그/2023-07-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,9 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-04.md",
+                "file": "tool/이미지 호스팅 서비스.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c16e9a72ff1186e9",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "docs/log/2023-07-05.md",
+                "staged": false
               }
             }
           }
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-07-04.md",
+                "file": "design/로그/2023-07-05.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-07-04.md",
+                "file": "design/로그/2023-07-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-07-04.md"
+                "file": "design/로그/2023-07-05.md"
               }
             }
           },
@@ -168,11 +193,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e7c6e11fd36aa11",
+  "active": "2eb4dc8a9767a5ec",
   "lastOpenFiles": [
-    "log/2023-07-03.md",
-    "log/2023-07-04.md",
+    "log/2023-07-05.md",
+    "design/로그/2023-07-05.md",
+    "design/디자인 시스템 구축/디자인 컬러 관리와 변수명 설정.md",
     "tool/이미지 호스팅 서비스.md",
+    "log/2023-07-04.md",
+    "design/로그",
+    "log/2023-07-03.md",
     "tool/intro.md",
     "design/영감/vijay verma 블로그.md",
     "design/영감/Untitled",
@@ -184,7 +213,6 @@
     "book/함께 자라기/키워드 정리 4.md",
     "develop/Docusaurus 프레임워크.md",
     "design/예정사항/예정사항.md",
-    "design/디자인 시스템 구축/디자인 컬러 관리와 변수명 설정.md",
     "design/디자인 시스템 구축/디자인 컬러 스텝.md",
     "log/2023-06-27.md",
     "design/예정사항",
@@ -197,16 +225,12 @@
     "천장 높이가 창의력에 미치는 영향.md",
     "startup/인적자원관리/경기 침체기, 인재 관리 전략.md",
     "product/2023-06-19.md",
-    "infra/AWS S3/Cognito 접근 권한 부여.md",
-    "develop/Untitled.md",
     "develop/Next.js document/Untitled",
     "develop/Next.js document",
-    "log/2023-07-01.md",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
     "startup/테크",
     "space",
     "infra/AWS S3",
-    "infra",
     "src/001.png",
     "Pasted image 20230625221019.png",
     "Untitled.canvas",
