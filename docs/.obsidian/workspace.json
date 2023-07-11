@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efd60d2d679a6597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log/2023-07-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32753e74843c3852",
+  "active": "efd60d2d679a6597",
   "lastOpenFiles": [
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 6.md",
     "log/2023-07-11.md",
