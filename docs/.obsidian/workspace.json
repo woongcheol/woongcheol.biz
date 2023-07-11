@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-05.md",
+                "file": "log/2023-07-11.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,42 +22,18 @@
             }
           },
           {
-            "id": "2eb4dc8a9767a5ec",
+            "id": "e3f229f48076f555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-10.md",
+                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 6.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7e7c6e11fd36aa11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tool/이미지 호스팅 서비스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c16e9a72ff1186e9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "docs/log/2023-07-05.md",
-                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-07-10.md",
+                "file": "log/2023-07-11.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-07-10.md",
+                "file": "log/2023-07-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-07-10.md"
+                "file": "log/2023-07-11.md"
               }
             }
           },
@@ -193,20 +169,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2eb4dc8a9767a5ec",
+  "active": "32753e74843c3852",
   "lastOpenFiles": [
-    "log/2023-07-09.md",
-    "log/2023-07-10.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 6.md",
+    "log/2023-07-11.md",
+    "log/2023-07-05.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 5.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
+    "log/2023-07-03.md",
+    "log/2023-07-04.md",
+    "design/로그/2023-07-05.md",
+    "log/2023-07-06.md",
     "log/2023-07-07.md",
     "log/2023-07-08.md",
-    "log/2023-07-06.md",
-    "log/2023-07-05.md",
-    "design/로그/2023-07-05.md",
+    "log/2023-07-09.md",
+    "log/2023-07-10.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 1.md",
     "design/디자인 시스템 구축/디자인 컬러 관리와 변수명 설정.md",
     "tool/이미지 호스팅 서비스.md",
-    "log/2023-07-04.md",
     "design/로그",
-    "log/2023-07-03.md",
     "tool/intro.md",
     "design/영감/vijay verma 블로그.md",
     "design/영감/Untitled",
@@ -219,13 +200,8 @@
     "develop/Docusaurus 프레임워크.md",
     "design/예정사항/예정사항.md",
     "design/디자인 시스템 구축/디자인 컬러 스텝.md",
-    "log/2023-06-27.md",
     "design/예정사항",
     "design/디자인 시스템 구축",
-    "tool/색상 고유 명사화 서비스.md",
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 5.md",
-    "book/함께 자라기/키워드 정리 5.md",
-    "log/2023-06-23.md",
     "develop/Next.js document/Untitled",
     "develop/Next.js document",
     "src/디자인 색상 관리와 변수명 설정_image1.png",
