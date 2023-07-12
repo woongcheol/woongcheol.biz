@@ -20,45 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "efd60d2d679a6597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "space/천장 높이가 창의력에 미치는 영향.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "207684d714e7b238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/log template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b49e3fd21e1eebab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log/2023-07-12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,19 +157,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b49e3fd21e1eebab",
+  "active": "e3f229f48076f555",
   "lastOpenFiles": [
-    "template/log template.md",
     "space/천장 높이가 창의력에 미치는 영향.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 7.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 5.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 6.md",
     "log/2023-07-12.md",
+    "log/2023-07-11.md",
+    "template/log template.md",
     "template/book template.md",
     "template/default template.md",
-    "log/2023-07-11.md",
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 6.md",
     "키워드 정리 4.md",
     "log/2023-07-05.md",
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 5.md",
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
     "log/2023-07-03.md",
     "log/2023-07-04.md",
     "design/로그/2023-07-05.md",
@@ -224,7 +188,6 @@
     "design/영감/Untitled",
     "design/영감",
     "log/2023-07-02.md",
-    "log/2023-06-30.md",
     "design/예정사항",
     "design/디자인 시스템 구축",
     "develop/Next.js document/Untitled",
