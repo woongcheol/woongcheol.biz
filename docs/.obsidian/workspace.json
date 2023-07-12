@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32753e74843c3852",
+            "id": "e3f229f48076f555",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-11.md",
+                "file": "log/2023-07-12.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "e3f229f48076f555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 6.md",
-                "mode": "source",
-                "source": false
-              }
             }
           },
           {
@@ -39,14 +27,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-11.md",
+                "file": "space/천장 높이가 창의력에 미치는 영향.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "207684d714e7b238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/log template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b49e3fd21e1eebab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "log/2023-07-12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-07-11.md",
+                "file": "log/2023-07-12.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-07-11.md",
+                "file": "log/2023-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-07-11.md"
+                "file": "log/2023-07-12.md"
               }
             }
           },
@@ -182,10 +194,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "efd60d2d679a6597",
+  "active": "b49e3fd21e1eebab",
   "lastOpenFiles": [
-    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 6.md",
+    "template/log template.md",
+    "space/천장 높이가 창의력에 미치는 영향.md",
+    "log/2023-07-12.md",
+    "template/book template.md",
+    "template/default template.md",
     "log/2023-07-11.md",
+    "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 6.md",
+    "키워드 정리 4.md",
     "log/2023-07-05.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 5.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
@@ -207,12 +225,6 @@
     "design/영감",
     "log/2023-07-02.md",
     "log/2023-06-30.md",
-    "develop/Next.js document/Dynamic Routes.md",
-    "develop/Next.js document/Pre-rendering and Data Fetching.md",
-    "book/함께 자라기/키워드 정리 4.md",
-    "develop/Docusaurus 프레임워크.md",
-    "design/예정사항/예정사항.md",
-    "design/디자인 시스템 구축/디자인 컬러 스텝.md",
     "design/예정사항",
     "design/디자인 시스템 구축",
     "develop/Next.js document/Untitled",
