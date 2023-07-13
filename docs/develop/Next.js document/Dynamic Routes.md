@@ -29,9 +29,11 @@ log: 00038
 
 **동적 경로로 페이지를 생성하는 방법**
 <img src="https://i.ibb.co/PxCJYqW/how-to-dynamic-routes.png"/>
+
 - 각 게시물의 경로를 갖기 위해 /posts/\<id\>의 형태로 구현한다. 여기서 id는 최상위 posts 디렉토리 하위에 있는 마크다운 파일 이름이다.
 - pages/posts 아래에 \[id\].js 라는 페이지를 생성한다. \[로 시작되어 \]로 끝나는 경우 Next.js에서 동적 경로로 사용된다.
 - pages/posts/\[id\].js 소스코드 작성
+
 ```jsx
 import Layout from '../../components/layout';
 
