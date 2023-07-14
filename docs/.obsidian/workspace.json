@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/2023-07-12.md",
+                "file": "log/2023-07-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/2023-07-12.md",
+                "file": "log/2023-07-14.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/2023-07-12.md",
+                "file": "log/2023-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/2023-07-12.md"
+                "file": "log/2023-07-14.md"
               }
             }
           },
@@ -172,17 +172,18 @@
   },
   "active": "16795451a5e149d9",
   "lastOpenFiles": [
+    "log/2023-07-13.md",
+    "log/2023-07-14.md",
+    "log/2023-07-12.md",
     "log/2023-07-11.md",
     "log/2023-07-05.md",
     "space/천장 높이가 창의력에 미치는 영향.md",
     "space/intro.md",
-    "log/2023-07-13.md",
     "log/2023-07-03.md",
     "log/2023-07-06.md",
     "log/2023-07-09.md",
     "log/2023-07-08.md",
     "log/2023-07-07.md",
-    "log/2023-07-12.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 7.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 3.md",
     "book/처음부터 다시 배우는 서비스 디자인 씽킹/키워드 정리 5.md",
@@ -198,7 +199,6 @@
     "design/디자인 시스템 구축/디자인 컬러 관리와 변수명 설정.md",
     "tool/이미지 호스팅 서비스.md",
     "design/로그",
-    "tool/intro.md",
     "design/영감/Untitled",
     "design/영감",
     "design/예정사항",
